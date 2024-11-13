@@ -6,7 +6,7 @@
   .elementor-element.elementor-element-895f0ac
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: lightpink;
+  background-color: ;
   /* background-image: url("https://billionairestrumpclub.com/wp-content/uploads/2024/11/BG2.png"); */
   background-position: center center;
   background-repeat: no-repeat;
@@ -15,7 +15,7 @@
 .elementor-8
   .elementor-element.elementor-element-895f0ac
   > .elementor-background-overlay {
-  background: lightpink;
+  background: ;
   opacity: 0.55;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -116,13 +116,13 @@
   .elementor-element.elementor-element-b79a1f3
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #000000;
+  /* background-color: #000000; */
 }
 .elementor-8
   .elementor-element.elementor-element-b79a1f3
   > .elementor-background-overlay {
   background-color: transparent;
-  background: lightpink;
+  background: ;
   /* background-image: linear-gradient(220deg, #02010100 0%, #000000 100%); */
   opacity: 0.9;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
@@ -317,7 +317,7 @@
   .elementor-element.elementor-element-9f2da83
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: lightpink;
+  background-color: ;
   /* background-image: url("https://billionairestrumpclub.com/wp-content/uploads/2024/11/BG3.png"); */
   background-position: center center;
   background-repeat: no-repeat;
@@ -326,7 +326,7 @@
 .elementor-8
   .elementor-element.elementor-element-9f2da83
   > .elementor-background-overlay {
-  background-color: lightpink;
+  background-color: ;
   opacity: 0.85;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
@@ -399,13 +399,13 @@
   .elementor-element.elementor-element-8b67c45
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #000000;
+  /* background-color: #000000; */
 }
 .elementor-8
   .elementor-element.elementor-element-8b67c45
   > .elementor-background-overlay {
   background-color: transparent;
-  background: lightpink;
+  background: ;
   /* background-image: linear-gradient(220deg, #02010100 0%, #000000 100%); */
   opacity: 0.90;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
@@ -706,14 +706,14 @@
   .elementor-element.elementor-element-6e7b13d
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: #000000;
+  /* background-color: #000000; */
 }
 .elementor-8
   .elementor-element.elementor-element-6e7b13d
   > .elementor-background-overlay {
   background-color: transparent;
   /* background: linear-gradient(to right#42c8cb, #139f6f #7577e6); */
-  background: lightpink;
+  background: ;
   /* background-image: linear-gradient(220deg, #02010100 0%, #000000 100%); */
   opacity: 0.9;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
@@ -826,7 +826,7 @@
   .elementor-element.elementor-element-0b0971d
   > .elementor-motion-effects-container
   > .elementor-motion-effects-layer {
-  background-color: lightpink;
+  background-color: ;
   /* background-image: url("https://billionairestrumpclub.com/wp-content/uploads/2024/11/BG1.png"); */
   background-position: center center;
   background-repeat: no-repeat;
@@ -835,7 +835,7 @@
 .elementor-8
   .elementor-element.elementor-element-0b0971d
   > .elementor-background-overlay {
-  background-color: #020101;
+  /* background-color: #020101; */
   opacity: 0.55;
   transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
 }
